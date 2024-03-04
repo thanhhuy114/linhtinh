@@ -1,0 +1,290 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "categories": [
+            {
+                "name": "Cappuccino",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Cappuccino",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Macchiato",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Latte",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.thatlangon.com/wp-content/uploads/2021/12/ca-phe-Latte.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Cappuccino",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Cappuccino",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Cappuccino",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Macchiato",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Macchiato",
+                        "additional": "with Oat Milk",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Macchiato",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Latte",
+                "items": [
+                    {
+                        "rating": 4.2,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.thatlangon.com/wp-content/uploads/2021/12/ca-phe-Latte.jpg"
+                    },
+                    {
+                        "rating": 4.5,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 4.99,
+                        "image": "https://cdn.tgdd.vn/2021/11/CookDishThumb/macchiato-la-gi-nguon-goc-cach-lam-cach-uong-macchiato-chuan-thumb-620x620.jpg"
+                    },
+                    {
+                        "rating": 3.2,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 4.2,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 4.7,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 4.3,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    },
+                    {
+                        "rating": 4.1,
+                        "name": "Latte",
+                        "additional": "with Oat Milk",
+                        "price": 3.76,
+                        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg"
+                    },
+                    {
+                        "rating": 3.9,
+                        "name": "Latte",
+                        "additional": "with Chocolate",
+                        "price": 3.99,
+                        "image": "https://www.tastingtable.com/img/gallery/the-perfect-milk-to-coffee-ratio-for-your-homemade-cappuccino/l-intro-1670945507.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

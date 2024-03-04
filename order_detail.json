@@ -1,0 +1,10 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "delivery_address": "Phòng IT",
+        "delivery_address_detail": "10-12 Đường số 3, Bình Hưng, Bình Chánh",
+        "original_delivery_fee": 2.0,
+        "discount_delivery_fee": 1.0
+    }
+}

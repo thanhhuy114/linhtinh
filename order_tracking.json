@@ -1,0 +1,15 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "time_left": "23 minutes",
+        "delivery_to": "Phòng IT",
+        "delivery_status": "Delivered your order",
+        "delivery_description": "We deliver your goods to you in the shortes possible time.",
+        "receiver": {
+            "name": "John Doe",
+            "avatar": "https://i.pravatar.cc/128",
+            "delivery_type": "Personal Courier"
+        }
+    }
+}

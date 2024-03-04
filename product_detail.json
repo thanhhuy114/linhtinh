@@ -1,0 +1,14 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "name": "Cappuccino",
+        "additional": "with Chocolate",
+        "rating": 4.2,
+        "rating_count": 233,
+        "description": "A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the",
+        "price": 3.99,
+        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg",
+        "is_favorite": true
+    }
+}

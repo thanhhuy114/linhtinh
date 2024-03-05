@@ -1,0 +1,57 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "name": "mohan",
+        "description": "Recycle Boucle Knit Cardigan Pink",
+        "price": 120,
+        "ring_size": [
+            {
+                "size": 6
+            },
+            {
+                "size": 8
+            },
+            {
+                "size": 99
+            },
+            {
+                "size": 10
+            },
+            {
+                "size": 11
+            }
+        ],
+        "image": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            }
+        ],
+          "gallery": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/bb63/1b90/72370a639fa96df0e09171f834eb4341?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Vsk1e4DrOusic7GiD4PW-xxqDgrZkI6XJFokGKZlSdn2alQ4nmriVTB4he9ihfRiwaMDfCDTD5D8TYxCSMyP-j2NbgGcn5XxM9w1ssLOU~V76KIoKg-53aaHJ87Dg56CpC3lcT4hn9ZNCCvKRdmJx7GTtQ8wPVFvouaxBaGR3s8DA~0M9o3SFr0C1E1tk1UweHvUBqpWnimhP3UnxyVVqLuGNwgvJCtue6eFR25~HlxaQA~fMU8BiMYh~34LflIVkkL0H6eS3orjEKwjyk4tso9~Ydo4kr3G3U~R4XV3IyFO~mCMAw8jG6ry0ArfsZM7zHhkPCXIt2oiYaTmfuRUFg__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/e3d3/14fc/5c662862dbe87e3210a69ca4c15aa601?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aXjS1F596zs6c2fRbHCHsJdijWh4rQQYBK9IolmYh9skfsLJJ97gZfMplBRSxcG5--Q61r7VdaF44TyYX59tXDFN2M7LApPDK6f04ZOjd6yCF4QgSI89WKIYeB42TuhdRYA94sfDpYe9GTFhp6vfpW4FOOwDqLv-UJnlQAMWOrlkiu93jhAUcgAIp5dU34wpaJ1shjbdQvrEasQhzw2SL6PK-xWQLq9zIkMv~3IbYAWIiEj2mCpDOWcQiE3L6YZ3AchRGTzTEF--KX~nwMa4n4ZSYUyQGv0-kuW3GkEwgFc~FqZHgw20QPpfYfcICyTsVX~p6gmJ0OgcDAzXgLbXYQ__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/ebc1/f82c/c95022d406da4a0dff67628939f37d53?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fZDEGyPTK6QhC5CSNkrwK0vMuu2jTX8d16sO29s2ncXXEOTGb2dF9h8rK~aglehPgGEsEpghtpRp5j8uh-Lo63SI6Rx~8JvjFD6cf3looSUpm8YdHIx5SD9r-yo6Gqxh-nM56JUXf7rFg~XG-JgCFPkr-89rQQbeSlfWfJPMz1Hu12yUS7t3sY5STRUALboqShhcUbSqdfVOL-Q02BBf1JcNH9n07mNmvqQIcfFC8SG7EgtilXbbxHYQM9PyPT1lLsGKhLwBPi6v9ZBw0MeywfW0cLSTTlNp81Si4YTDo3WMPaMAgkqxmBiMRu1TiiZnzErfrZSJABjVbSWqRuDgOA__"
+            }
+        ],
+        "care": {
+            "shipping_info": "09/11/2021 - 12/11/2021",
+            "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
+            "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."
+        },
+        "is_favorite": false
+    }    
+}

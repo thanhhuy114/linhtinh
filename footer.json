@@ -1,0 +1,12 @@
+{
+ "code":1,
+  "message": "success",
+"data": {
+  "gmail": "support@openui.design",
+  "phone": "+60 825 876",
+  "open_time" : "08:00",
+  "close_time": "22:00",
+  "days_per_week": "Everyday",
+}
+
+}

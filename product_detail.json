@@ -2,13 +2,61 @@
     "code": 1,
     "message": "success",
     "data": {
-        "name": "Cappuccino",
-        "additional": "with Chocolate",
-        "rating": 4.2,
-        "rating_count": 233,
-        "description": "A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the",
-        "price": 3.99,
-        "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg",
-        "is_favorite": true
-    }
+        "name": "mohan",
+        "description": "Recycle Boucle Knit Cardigan Pink",
+        "price": 120,
+        "color":[
+            {
+                "id": 1,
+                "name": "black"
+            },
+            {
+                "id": 2,
+                "name": "orange"
+            },
+            {
+                "id": 3,
+                "name": "gray"
+            }
+        ],
+        "size": [
+            {
+                "size": "s"
+            },
+            {
+                "size": "m"
+            },
+            {
+                "size": "l"
+            }
+        ],
+        "image": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o~v~yYgzVDKwmJZs-sAq8xpi1SzVgvOQIHGLq4eGMRfrbDC1OlrY8d0djuA7EVzR~RyVA~kDKSROlbBrrPnT5C84iMx3RTwxlfxMkDo-m9qv-wuWivzJA5NiNKmIR8~8kcCVKZMBYmLiM-NyhNlN3p9JEMyANoJWpo0i3HJ3hiN2jRR0wRrKxUkRAJfhzKygzaqtOr0hTZbBs5ZMJYy~l0eR2iMgjJZQvjK8ZkIg85ovcQp8b-RrOmAvEHoIrYh07enCxghRXuvEEiG~HnnwSxVqClbu2FC4bMMT-YzCUHoq57GOsFZ4x1o9QiRx7m~Fs7wN8E0eg-Q4IEWvgk~Gzw__"
+            },
+        ],
+        "material": "We work with monitoring programmes to ensure compliance with safety, health and quality standards for our products.",
+        "care": {
+            "cleaning": "To keep your jackets and coats clean, you only need to freshen them up and go over them with a cloth or a clothes brush. If you need to dry clean a garment, look for a dry cleaner that uses technologies that are respectful of the environment.",
+            "do_not_use": "bleach",
+            "do_not": "tumble dry",
+            "iron_at_max_temperature": "110ºC/230ºF",
+            "shipping_info": "09/11/2021 - 12/11/2021",
+            "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
+            "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."
+        },
+        "is_favorite": false
+    }    
 }

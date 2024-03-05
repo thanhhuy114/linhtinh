@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "posts": [
+            {
+                "title": "2021 Style Guide: The Biggest Fall Trends",
+                "date_published": "01/03/2024",
+                "iamge_url": "https://s3-alpha-sig.figma.com/img/3e4e/55fc/5723b9872491c08de91ab3a7dbab08e1?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W0EonS9W6KoQXEJq~Flg~v5FAH5Tni9NFiMp3nvNBykcuW-nBhtAmm0yjX9hdiHX~bWGld2nSlBR8bqrP9G7dEdhWRnuKRdZFbBoXdHEjJ9rXP~ICgJvDraV4e9OsPNiA1ZI1SZJ1i-ZdwrE7XQ0PD22cKO~paGLf3dcV2M5G~tsJhpgv9REH-J1reRsFC2f5A5c22AE77eTo3fk4DAnxJWOFB9RbF2H6Sgn~znM5WLlD9TCVIlHLs1unmSKd3PY0FyEjEylB61RJRAxbAxNTmtOMj0486qkp3OMgzyA7atT2CWf5uw8pB7QNP9xy30EM3MfxBjY4QbBJtVY6J7DpQ__",
+                "tags": [
+                    "Fashion",
+                    "Promo",
+                    "Policy"
+                ]
+            },
+            {
+                "title": "2021 Style Guide: The Biggest Fall Trends",
+                "date_published": "01/03/2024",
+                "iamge_url": "https://s3-alpha-sig.figma.com/img/3e4e/55fc/5723b9872491c08de91ab3a7dbab08e1?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W0EonS9W6KoQXEJq~Flg~v5FAH5Tni9NFiMp3nvNBykcuW-nBhtAmm0yjX9hdiHX~bWGld2nSlBR8bqrP9G7dEdhWRnuKRdZFbBoXdHEjJ9rXP~ICgJvDraV4e9OsPNiA1ZI1SZJ1i-ZdwrE7XQ0PD22cKO~paGLf3dcV2M5G~tsJhpgv9REH-J1reRsFC2f5A5c22AE77eTo3fk4DAnxJWOFB9RbF2H6Sgn~znM5WLlD9TCVIlHLs1unmSKd3PY0FyEjEylB61RJRAxbAxNTmtOMj0486qkp3OMgzyA7atT2CWf5uw8pB7QNP9xy30EM3MfxBjY4QbBJtVY6J7DpQ__",
+                "tags": [
+                    "Fashion",
+                    "Promo",
+                    "Policy"
+                ]
+            },
+            {
+                "title": "2021 Style Guide: The Biggest Fall Trends",
+                "date_published": "01/03/2024",
+                "iamge_url": "https://s3-alpha-sig.figma.com/img/3e4e/55fc/5723b9872491c08de91ab3a7dbab08e1?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W0EonS9W6KoQXEJq~Flg~v5FAH5Tni9NFiMp3nvNBykcuW-nBhtAmm0yjX9hdiHX~bWGld2nSlBR8bqrP9G7dEdhWRnuKRdZFbBoXdHEjJ9rXP~ICgJvDraV4e9OsPNiA1ZI1SZJ1i-ZdwrE7XQ0PD22cKO~paGLf3dcV2M5G~tsJhpgv9REH-J1reRsFC2f5A5c22AE77eTo3fk4DAnxJWOFB9RbF2H6Sgn~znM5WLlD9TCVIlHLs1unmSKd3PY0FyEjEylB61RJRAxbAxNTmtOMj0486qkp3OMgzyA7atT2CWf5uw8pB7QNP9xy30EM3MfxBjY4QbBJtVY6J7DpQ__",
+                "tags": [
+                    "Fashion",
+                    "Promo",
+                    "Policy"
+                ]
+            }
+        ]
+    }
+}

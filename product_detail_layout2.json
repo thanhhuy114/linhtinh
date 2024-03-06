@@ -7,19 +7,19 @@
         "price": 120,
         "ring_size": [
             {
-                "size": 6
+                "size": "6"
             },
             {
-                "size": 8
+                "size": "8"
             },
             {
-                "size": 99
+                "size": "9"
             },
             {
-                "size": 10
+                "size": "10"
             },
             {
-                "size": 11
+                "size": "11"
             }
         ],
         "image": [

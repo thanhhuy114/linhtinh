@@ -1,0 +1,122 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+          "id": "1",
+          "name": "October collection",
+          "image" : "https://s3-alpha-sig.figma.com/img/ed8f/4d87/18c00e6e0e487ca9314bc0f7b72dd4b6?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R96SHq1~2g7Xsy4bOF0TpnjDBLzobJrFVCN5ltnFwp~oN8KxQxiuVaI96HXSQnbLWLMmSJjv6dac6fZtg8PfbAnnzDQ0iIwz4R7mC~Jd9CsVN1c~sEOEFRwBPRwpZpvXK0cDwfZKuhOCOb~s0QDxMyl0v~KfhPPDhYACL8MCUVBHewZQ94cQFj9EIwpSUQmVdIY5iKi5GCH2mssHYL4dztBYbfznnmcZvy0JzWv00TKjVJoe4a0FZ85CE833HSTS34Qish1EOg4EAmAUwCvv-669IXKXP8UppKcTuMgiUYVBTLBDQD3xsu5hYnHjtStmJVTMuYqGoZ4LjOBuGEN7Og__",
+          "description": "reversible angora cardigan",
+          "price":"$120",
+          "rating":"4.8"
+        },
+        {
+            "id": "2",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "3",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/2595/bed0/50f701fd9d676d2147075879d7852f91?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q0ZjDOMO7CI5KEWIlDp6wI7p~isDRiJJJsffWZrQQ7LHBvnlokAzIHeGsVZb4qAKbATLwlxSmN3czkAudsH6lyrIedaC4BFnPej9Pf8z976bmudaoJR75eykq7FrXfJoR89DTNcUkqXPwXQpVlnNTk8odtzVx8vPLmM4kO7pvIHGvSct5khKS4yluXJBYjWgK-xEtizfbzhwyB1~qU~IE7nuYANg6mcDkwfAd3GuqJ7QBeQg5LVm6PjJdbtlYuMsczU7BRMc0~szCpnRVz9st0exKDi99VAhSvPKjEKXAkH9I37kaZxv6x8hywbgywknvPU3oxoBlD~mifrSNeMI~g__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "4",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/dc01/5840/6bf951e5bec9f989b0948afe9a5f0d1a?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YJJHtkqcJmKbkUTCUy0xO9c6co~ljeuSOWXiaxJG6FBMJk5dsa6TPjfRLLclVD8lHmtuBeWBiFrQtlurE4YdNPJQrDRORbD2nCnkGa7anFGfLSGc6lDNNiq2cEDiBvLqOPjNNa5DD-EDbb9xqcujLbnm846h3JpiYF~QdVpUvEQ~yZc2lqHp1pVKZE1o~nh30IxXGJw0ycEoud~90BC--krOIiSUwJzTG4R4GWcaA0wueJ5V4jazozIfGnvjnR5Is2aT66oWyVdheU~YcjVys9Zt1293KDEqGVqX7y8NBfk2cD507qPXGLIPPlClpQydVGVzFO8mpeDDR-REKA8z~A__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "5",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "6",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "7",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "8",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "1",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "9",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "10",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "11",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "12",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        },
+        {
+            "id": "13",
+            "name": "October collection",
+            "image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+            "description": "reversible angora cardigan",
+            "price":"$120",
+            "rating":"4.8"
+        }
+
+        
+        
+      ]
+  }
+  

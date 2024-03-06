@@ -52,6 +52,36 @@
             "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
             "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."
         },
-        "is_favorite": false
+        "is_favorite": false,
+        "categories":[
+         {
+            "name": "21WN",
+            "description": "reversible angora cardigan",
+            "price": 120,
+            "image": "https://s3-alpha-sig.figma.com/img/f171/d839/3aefa2851fef195b1d6492447b364b17?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WDvupIcihqSV-KZ~whxPKvIRD7Lal~-INEcg6VDMHYphsXAD9Co-1sSh7MIybeVdf5UD1NOnd2q1goz6U28SMl1HAg~txnxK4rZcFqqBED3MxZD1TDogfPT4~1s8hdcS7KDDhOYzSjKlwmuIqvghIJUAePuNA4J5pKY0Zk1VAQzxiCn5mTVTCiUuW5rl694f1IZ9EcXa~EEyF5IdWBDmkM3Jyt5UstN2cL80h~FcdNhL6d6XCigEna2UTv6-C59IAhEl7CHHQnk32kVYnTDe1ZDszGYWE~RMHlavQMEqnc8wUh0iPo~Io38jn8CeeZJr-WenkSspt-XtLbu8NzkwBQ__",
+            "is_favorite": false
+         },
+         {
+            "name": "lamerei",
+            "description": "reversible angora cardigan",
+            "price": 120,
+             "image": "https://s3-alpha-sig.figma.com/img/8a2f/6672/04fcdb4158c7cbbb1592da4f6169df8d?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J2KC2uCIyPHrsbTJf-c3dOaq1B6vzDEoCLZCL7flBazHBDbzpJbngYN-QL2X8xvlh4mqQB0dfYjadirn3cAPlystsq78FH~8-Y6OcvGF7-kfVRfhmByfvPxOSFycAN3Npeqw19HPHUEIdMzP-wfhF3DpP2M0gR1qzbNWwM1a273YhmmKgWXpaa-6jPyR2qspnu~8lxK2~dwKUxxBrvCORFOvS~opO8ySDbijYSKb8J4EIN33tl5q5Xg7vMPmq0-Gbtukbj5dI1cawvyWOda84YvAILwtixsXrAdAoyMADlhgVofWN0S99Z5JNPVLdeGv3dlQ4pV-ggPqZ7mfIJfTSA__",
+            "is_favorite": false
+         },
+         {
+            "name": "21WN",
+            "description": "reversible angora cardigan",
+            "price": 120,
+             "image": "https://s3-alpha-sig.figma.com/img/bf3e/9664/9470359d7ed55ed1620f0771ca23b8d8?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=myS-ovVXViHHmEt64TPScURCF~H1AgbvmFTpOd0a5g145Lf7jOwe16ZHnuDMZP4XBsaN9S8XQFW5Tskrl2ZsRyJ2L3mOwSmIY4NfOk99nwlkWce1I8HUfPBBS2LG9GdEMskJYasfn~k6Mf4wiLntda~98VSpchAjU8abciGqUzXJpUCmTzKjTlhQv9xU-rQ4RBHR0w9~eCO3yaSvBO~h-GULd8lqgPUtxUQQQ1lYI5s-oXKOBFvUFPep2AX5YmYMAOYp0SOzuXKlLM9BdhbUBzUtNcKACwSAytK3payj8Bod7YjNq408ycfVk0Xi1AH9Etv-Xt-W9CyGtrKZEHJa~Q__",
+            "is_favorite": false
+         },
+         {
+            "name": "lamerei",
+            "description": "reversible angora cardigan",
+            "price": 120,
+             "image": "https://s3-alpha-sig.figma.com/img/45cf/abf9/ef2aac11caaee347da2f5234f1d66157?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BWUWTsUezML~8s2JpniaUP2skcp-BYGBAf360dLMitiUsl-DD~GOmBATq18d92D5HU3pp5Iw9MEG3MNot1s4HfLd~gwc9dIBKwFF50bM6rY5kAYJtv~IGOSwnx1cOXKq7yKzmn2x~aWS7cLbLYWdb8PGwHMl8N4nJa9XzWimswEX5MgnF6kdm~7-uso8-6qq9V2JIFd6ccZnUHRSQl7E-4-TPli-i54Mlv2Bfff0snU2rFLPgqsrWO1xrNMP1et5ooDUXejePOGZmKBwct-g6Eyb9JijIaNzG1qcevLVzbEPY~3IQKxh3NR0BEmhinF3w8H1tSAvTiE5-mE-Z2jkBA__",
+            "is_favorite": false
+         }
+       ]
     }    
 }

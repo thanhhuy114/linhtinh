@@ -82,16 +82,19 @@
             }
         ],
         "material": "We work with monitoring programmes to ensure compliance with safety, health and quality standards for our products.",
-        "care": {
+        "care":{
             "cleaning": "To keep your jackets and coats clean, you only need to freshen them up and go over them with a cloth or a clothes brush. If you need to dry clean a garment, look for a dry cleaner that uses technologies that are respectful of the environment.",
             "do_not_use": "Do not use bleach",
             "do_not": "Do not tumble dry",
             "dry_clean_with": "Dry clean with tetrachloroethylene",
             "iron_at_max_temperature": "Iron at a maximum of 110ºC/230ºF",
-            "shipping_info": "09/11/2021 - 12/11/2021",
-            "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
-            "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."
+            "care_policy": {
+                "shipping_info": "09/11/2021 - 12/11/2021",
+                "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
+                "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."
+            }
         },
+       
         "is_favorite": false,
         "categories":[
          {

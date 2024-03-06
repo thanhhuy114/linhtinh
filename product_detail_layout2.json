@@ -47,7 +47,7 @@
                 "url": "https://s3-alpha-sig.figma.com/img/ebc1/f82c/c95022d406da4a0dff67628939f37d53?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fZDEGyPTK6QhC5CSNkrwK0vMuu2jTX8d16sO29s2ncXXEOTGb2dF9h8rK~aglehPgGEsEpghtpRp5j8uh-Lo63SI6Rx~8JvjFD6cf3looSUpm8YdHIx5SD9r-yo6Gqxh-nM56JUXf7rFg~XG-JgCFPkr-89rQQbeSlfWfJPMz1Hu12yUS7t3sY5STRUALboqShhcUbSqdfVOL-Q02BBf1JcNH9n07mNmvqQIcfFC8SG7EgtilXbbxHYQM9PyPT1lLsGKhLwBPi6v9ZBw0MeywfW0cLSTTlNp81Si4YTDo3WMPaMAgkqxmBiMRu1TiiZnzErfrZSJABjVbSWqRuDgOA__"
             }
         ],
-        "care": {
+        "care_policy": {
             "shipping_info": "09/11/2021 - 12/11/2021",
             "COD_policy":"Our COD policy allows customers to pay for their orders in cash upon delivery. This option is available for eligible orders and may vary depending on location. Please note that additional fees may apply for COD orders. Contact our customer service for more information.",
             "return_policy":"Our return policy allows customers to return items within 30 days of purchase for a full refund. The item must be unused and in the same condition as received. Customers are responsible for return shipping costs unless the return is due to a defective or damaged product. Please contact our customer service team for assistance with returns."

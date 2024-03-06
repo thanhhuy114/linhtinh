@@ -53,8 +53,8 @@
       },
       {
         "id": "1",
-        "collection_name": "October collection",
-        "collection_image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+        "collection_name": "Black collection",
+        "collection_image" : "https://s3-alpha-sig.figma.com/img/b3bf/ceef/2a55409655d036487a501dbfaa7efd8e?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iIxtalAuyIFUoXche~hoReS~H3QlApLEck8L1R4k6EIfrdMSy9HDy96sZvxURwqN8kntllP5nHlYdNvoU2f~6GRSBpWPe-n64Vyu6MffOIP~waGcKhEar~LDFzrne3TPuccMl84WD~4ymXw9kCPBAsYR4e3b2RkdzqVPtIwGpTEpvW9H--E08hz4lBlLA6vF9873zMbc2Hf9ijpqB3G0~F-uue45bXDegMYJj34Q~RQ7UCEd5oESmKt2JrABi21XPYhSIXsSgQ1Pn09r98217z3eb-aKHJWloMx07~ZsrBeH0f1y3gQQszhIH3gaoJC2QAK6gveKSJbJ4-FKjradQQ__",
         "items": [
             {
               "id": 1,
@@ -102,7 +102,7 @@
       },
       {
         "id": "1",
-        "collection_name": "October collection",
+        "collection_name": "Hae collection",
         "collection_image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
         "items": [
             {

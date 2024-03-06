@@ -1,0 +1,135 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": [
+      {
+        "id": "1",
+        "collection_name": "October collection",
+        "collection_image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+        "items": [
+            {
+              "id": 1,
+              "name": "Dress",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 2,
+              "name": "Shoes",
+              "description": "reversible angora cardigan",
+              "price": 490.0,
+            },
+            {
+              "id": 3,
+              "name": "Earring",
+              "description": "reversible angora cardigan",
+              "price": 1099.0,
+            },
+            {
+              "id": 4,
+              "name": "Rings",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 5,
+              "name": "Ring 1",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 6,
+              "name": "Ring 2",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+          ]
+      },
+      {
+        "id": "3",
+        "collection_name": "October collection",
+        "collection_image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+        "items": [
+            {
+              "id": 1,
+              "name": "Dress",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 2,
+              "name": "Shoes",
+              "description": "reversible angora cardigan",
+              "price": 490.0,
+            },
+            {
+              "id": 3,
+              "name": "Earring",
+              "description": "reversible angora cardigan",
+              "price": 1099.0,
+            },
+            {
+              "id": 4,
+              "name": "Rings",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 5,
+              "name": "Ring 1",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 6,
+              "name": "Ring 2",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+          ]
+      },
+      {
+        "id": "2",
+        "collection_name": "October collection",
+        "collection_image" : "https://s3-alpha-sig.figma.com/img/060d/17f8/0bdff3b6644137e23e5a3d131f6e9025?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dahWDtr-ULx-5o0i-FeTEl9iziOhnIq8VcB3--t13MQCKPJuweFX181jp0coCRz4OKZ3KzbexfaOn7i22~9U6b4iSWG0dHaKHmu4bmnsSgeBpMi6RvvUKGDt9KfJS1I-LozW5yHm63-h-CLbPVJ~JA9R1nEYNeARvCf6YCeefjX8tUEB7FY2qXLtyqfV2-EAPuoFpY1uS9BmiIHpURW5ac1OEDptttVIiP5L18HFdwKBAtGcxTF~cKTljC0nNghAXD8QMhZPPrd-mhi37fmcPjSIwx6AreMEqTJEbHVSzFH7TZ7GKgJ~kunlLvQUSRj7gtmui5~~5KIkvVEsJmZLsQ__",
+        "items": [
+            {
+              "id": 1,
+              "name": "Dress",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 2,
+              "name": "Shoes",
+              "description": "reversible angora cardigan",
+              "price": 490.0,
+            },
+            {
+              "id": 3,
+              "name": "Earring",
+              "description": "reversible angora cardigan",
+              "price": 1099.0,
+            },
+            {
+              "id": 4,
+              "name": "Rings",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 5,
+              "name": "Ring 1",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+            {
+              "id": 6,
+              "name": "Ring 2",
+              "description": "reversible angora cardigan",
+              "price": 120.0,
+            },
+          ]
+      }
+    ]
+}

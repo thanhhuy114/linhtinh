@@ -107,22 +107,22 @@
 		        "name": "Bag",
 		        "items": [
 			          {
-				            "image": "https://i.etsystatic.com/47154785/r/il/e23978/5638922654/il_794xN.5638922654_mq3n.jpg",
+				            "image": "https://s3-alpha-sig.figma.com/img/d5ee/e6b7/9e748319530ddff87d43c4a58d16e4dc?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ktn8LzFFYaIjOCQrcOzabnng1ppZ8ibDWfBxgV7Opx82seDrc60kgjZ814aTP~Bh5As8taezhzfrCax18Jkq0YxNMn0qDHU-HOM2te31uKN3fpquiiy901LTpXXqyzhBn6K2F1oGcg1PE1ij6Pe9KkPkvFRl0CrvtKz~OSvfp7BI6fAynMeazeEmvadl34-XZRJAsQww3STPQ3Ha17ek3HCianEFtMZ-xp5h-KblNc70qiV-~wqn4NMWg3VRLraDpYQ3VTswssWY~0I~F6cY87glVrxiLSF9VYZf6EbBiOB95z9g9xfVX7WAkNH~XcpeBsnQ2cTaliqH6InBfahdtg__",
 				            "content": "21WN reversible angora cardigan",
 				            "price": 120
 			          },
 			          {
-				            "image": "https://i.etsystatic.com/47154785/r/il/244695/5686984129/il_794xN.5686984129_ltk3.jpg",
+				            "image": "https://s3-alpha-sig.figma.com/img/d5ee/e6b7/9e748319530ddff87d43c4a58d16e4dc?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ktn8LzFFYaIjOCQrcOzabnng1ppZ8ibDWfBxgV7Opx82seDrc60kgjZ814aTP~Bh5As8taezhzfrCax18Jkq0YxNMn0qDHU-HOM2te31uKN3fpquiiy901LTpXXqyzhBn6K2F1oGcg1PE1ij6Pe9KkPkvFRl0CrvtKz~OSvfp7BI6fAynMeazeEmvadl34-XZRJAsQww3STPQ3Ha17ek3HCianEFtMZ-xp5h-KblNc70qiV-~wqn4NMWg3VRLraDpYQ3VTswssWY~0I~F6cY87glVrxiLSF9VYZf6EbBiOB95z9g9xfVX7WAkNH~XcpeBsnQ2cTaliqH6InBfahdtg__",
 				            "content": "21WN reversible angora cardigan",
 				            "price": 120
 			          },
 			          {
-				            "image": "https://i.etsystatic.com/47154785/r/il/720a53/5686984315/il_794xN.5686984315_57cq.jpg",
+				            "image": "https://s3-alpha-sig.figma.com/img/d5ee/e6b7/9e748319530ddff87d43c4a58d16e4dc?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ktn8LzFFYaIjOCQrcOzabnng1ppZ8ibDWfBxgV7Opx82seDrc60kgjZ814aTP~Bh5As8taezhzfrCax18Jkq0YxNMn0qDHU-HOM2te31uKN3fpquiiy901LTpXXqyzhBn6K2F1oGcg1PE1ij6Pe9KkPkvFRl0CrvtKz~OSvfp7BI6fAynMeazeEmvadl34-XZRJAsQww3STPQ3Ha17ek3HCianEFtMZ-xp5h-KblNc70qiV-~wqn4NMWg3VRLraDpYQ3VTswssWY~0I~F6cY87glVrxiLSF9VYZf6EbBiOB95z9g9xfVX7WAkNH~XcpeBsnQ2cTaliqH6InBfahdtg__",
 				            "content": "21WN reversible angora cardigan",
 				            "price": 120
 			          },
 			          {
-				            "image": "https://i.etsystatic.com/44937541/r/il/3c8ed2/5493207685/il_794xN.5493207685_8vf4.jpg",
+				            "image": "https://s3-alpha-sig.figma.com/img/d5ee/e6b7/9e748319530ddff87d43c4a58d16e4dc?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ktn8LzFFYaIjOCQrcOzabnng1ppZ8ibDWfBxgV7Opx82seDrc60kgjZ814aTP~Bh5As8taezhzfrCax18Jkq0YxNMn0qDHU-HOM2te31uKN3fpquiiy901LTpXXqyzhBn6K2F1oGcg1PE1ij6Pe9KkPkvFRl0CrvtKz~OSvfp7BI6fAynMeazeEmvadl34-XZRJAsQww3STPQ3Ha17ek3HCianEFtMZ-xp5h-KblNc70qiV-~wqn4NMWg3VRLraDpYQ3VTswssWY~0I~F6cY87glVrxiLSF9VYZf6EbBiOB95z9g9xfVX7WAkNH~XcpeBsnQ2cTaliqH6InBfahdtg__",
 				            "content": "Oblong bag",
 				            "price": 120
 			          }
@@ -146,6 +146,23 @@
           "price": 120
         }
       ],
-      
+      "followus":[
+        {
+          "image": "https://s3-alpha-sig.figma.com/img/2bd1/ec31/c200fd437c1b6f07925da5405eb9d0ba?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KyGKK9WS9yXcYsZEsWXX3ACnJk5VEIUIjhsAac9AY1LSOw0EQfB9ddaYsID0Aexsbys~46qOURhrpdtZozKUDtoxgartKOaVeb7tcy314QkH0WNt-NlkIQlifVBsxKVng-WUalaX21HyU6FZNiHyN1A1~zoxpy9pWhSxqzUEUuGD2GkFh68EIWSNrxCuByTMZqjVndkG7iFXjeobk~i~KfGfOjLCEOxn1-5uLyVDDXZO0Bmhz8BvnxVEF3p8Uh-esw4H4HHq4I7mP1a-zDgfl9usvJlnA4GMWIOZaWW4geaIaBkEit~y08gcjlqU~tBtOWAhuPEiE~FiiOy4CfBiKg__",
+          "tag": "@mia",
+        },
+        {
+          "image": "https://s3-alpha-sig.figma.com/img/5e3c/e7f9/e6f7826825de8bc9ff46a1000bf54059?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oI42yYtp9Gxymk3SEsvhtL0R0C9KmnWXPlU5GeVZOn-3y5Tmm5IT5E6KfVdZ7aMPbrygYS~3k1PAGuVNFBY-eTx5KnGMZIdUX4GL8QB6OblCJWIDxX7MgS3SxpNYCmDoScalsYE7ATkJoKnJ73iCDhI0LHs7sKUuUKvYWOm1K1NeOKe41~C-d~5nqGKtAfE3z8giDFKZzEhVIXRe~W1dy5kCsJm2A5DZ0bNnSCssPmO14HD3ms9neqLQ58h4HE0fWB0vPz6U8pRAEYE2UxDhedCp7zRccvAu0WCmu6F64ndjZywzQzwJVuztfO68EfKUTPKPK7XwTYZ7b4pxNqNGOw__",
+          "tag": "@_jihyn",
+        },
+        {
+          "image": "https://s3-alpha-sig.figma.com/img/0b1d/bf24/5c4edf2d122d8da0495729a6afc5025b?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eBC1a4L0DipoxvVpvpdejPo2fjLlcTsqKZKUE-Az7THs7HiUtQCJOT46bgBErCssqq-4ccyRkwVDZPr40jMrRzzc94icFx1FDknwbJRyxcXDNYpsg1j5AEWCJAxIx-j6I3WmLYmQEqbXnLzmzkW024nI4DiSuPVqH6TRTmbD38sKTSxGSQqVCvDn8qQ7wCEKCRPjwBdwlBhjNMIRz9QuMbV9mLvbBqxq4XM~mxxiDDc0CSKr0MaRAWDtpUbtIxfqRHAu6JtXjG1ROtMJE4vnm3ydSc7gROqOC9~OP5v9UhHdUTgs6saWR5Pzc1ywAz7fBONxGoXm4JEk1dxZGwbH5Q__",
+          "tag": "@mia",
+        },
+        {
+          "image": "https://s3-alpha-sig.figma.com/img/5d4b/7208/459554fe60b984c95e951ca8dbb2111b?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R7y1VZFR7fB2xWTYArwvlsKRFcm1GhFhITDvCSBkPeiA2OdM~xmIOybqJ5lVpomaMvYN736pFlN5HRKUwsbfrM5eEydxrQP~NWwu4nhl5TpV7-cXplgmvVMIT4CYSkrZpw2GjJWm6qmnThZi7LzEg1~PlvT6IcO3bv~0MrVYrAHFPtr8tUyusMb-lAR4L1iKpVzUIE2KnY8J2TYogzt0Xe-dswgEhd3y5fs7Ppv39VhKGl8FdPFEcMTsxgmvOzz1SN6v~FTnmfsc-cCAhhE5XYtkAUt-xNgWqijmBUpfkoBpjqd6iSi3MnhbSJnSnbsn7At~vIQV9mPA52Bm5dYJOw__",
+          "tag": "@_jihyn",
+        }
+      ]
   	}
 }

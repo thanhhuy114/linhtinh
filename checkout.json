@@ -1,0 +1,19 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+      "checkout": {
+          "address": "Iris Watson",
+          "address_detail": "606-3727 Ullamcorper. Street Roseville NH 11523",
+          "phone_number": "(786) 713-8616",
+          "master_card": "0111402289",
+          "product": [
+              {
+                "name": "lamerei",
+                "description": "Recycle Boucle Knit Cardigan Pink",
+                "price": 120
+              },
+          ]
+        }
+    }
+}

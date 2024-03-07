@@ -9,31 +9,25 @@
           "master_card": "0111402289",
           "product": [
               {
-                "image":[
-                   {
+                "image":{
                     "url": "https://s3-alpha-sig.figma.com/img/ed8f/4d87/18c00e6e0e487ca9314bc0f7b72dd4b6?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R96SHq1~2g7Xsy4bOF0TpnjDBLzobJrFVCN5ltnFwp~oN8KxQxiuVaI96HXSQnbLWLMmSJjv6dac6fZtg8PfbAnnzDQ0iIwz4R7mC~Jd9CsVN1c~sEOEFRwBPRwpZpvXK0cDwfZKuhOCOb~s0QDxMyl0v~KfhPPDhYACL8MCUVBHewZQ94cQFj9EIwpSUQmVdIY5iKi5GCH2mssHYL4dztBYbfznnmcZvy0JzWv00TKjVJoe4a0FZ85CE833HSTS34Qish1EOg4EAmAUwCvv-669IXKXP8UppKcTuMgiUYVBTLBDQD3xsu5hYnHjtStmJVTMuYqGoZ4LjOBuGEN7Og__"
-                   }
-                ],
+                  },
                 "name": "lamerei",
                 "description": "Recycle Boucle Knit Cardigan Pink",
                 "price": 120
               },
-              {
-                "image":[
-                   {
+               {
+                "image":{
                     "url": "https://s3-alpha-sig.figma.com/img/ed8f/4d87/18c00e6e0e487ca9314bc0f7b72dd4b6?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R96SHq1~2g7Xsy4bOF0TpnjDBLzobJrFVCN5ltnFwp~oN8KxQxiuVaI96HXSQnbLWLMmSJjv6dac6fZtg8PfbAnnzDQ0iIwz4R7mC~Jd9CsVN1c~sEOEFRwBPRwpZpvXK0cDwfZKuhOCOb~s0QDxMyl0v~KfhPPDhYACL8MCUVBHewZQ94cQFj9EIwpSUQmVdIY5iKi5GCH2mssHYL4dztBYbfznnmcZvy0JzWv00TKjVJoe4a0FZ85CE833HSTS34Qish1EOg4EAmAUwCvv-669IXKXP8UppKcTuMgiUYVBTLBDQD3xsu5hYnHjtStmJVTMuYqGoZ4LjOBuGEN7Og__"
-                   }
-                ],
+                  },
                 "name": "lamerei",
                 "description": "Recycle Boucle Knit Cardigan Pink",
                 "price": 120
               },
-              {
-                "image":[
-                   {
+             {
+                "image":{
                     "url": "https://s3-alpha-sig.figma.com/img/ed8f/4d87/18c00e6e0e487ca9314bc0f7b72dd4b6?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R96SHq1~2g7Xsy4bOF0TpnjDBLzobJrFVCN5ltnFwp~oN8KxQxiuVaI96HXSQnbLWLMmSJjv6dac6fZtg8PfbAnnzDQ0iIwz4R7mC~Jd9CsVN1c~sEOEFRwBPRwpZpvXK0cDwfZKuhOCOb~s0QDxMyl0v~KfhPPDhYACL8MCUVBHewZQ94cQFj9EIwpSUQmVdIY5iKi5GCH2mssHYL4dztBYbfznnmcZvy0JzWv00TKjVJoe4a0FZ85CE833HSTS34Qish1EOg4EAmAUwCvv-669IXKXP8UppKcTuMgiUYVBTLBDQD3xsu5hYnHjtStmJVTMuYqGoZ4LjOBuGEN7Og__"
-                   }
-                ],
+                  },
                 "name": "lamerei",
                 "description": "Recycle Boucle Knit Cardigan Pink",
                 "price": 120

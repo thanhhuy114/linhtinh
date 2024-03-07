@@ -8,7 +8,8 @@
             "items":[
               {
                 "name": "New",
-                "items":{
+                "items": [
+                  {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -18,11 +19,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Apparel",
-                "items":{
+                "items": [
+                    {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -32,11 +35,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                   }
+                ]
               },
               {
                 "name": "Bag",
-                "items":{
+                "items": [
+                    {
                   "item1": "Clutches",
                   "item2": "Cross-Body Bags",
                   "item3": "Shoulder Bags",
@@ -46,11 +51,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Shoes",
-                "items":{
+                "items": [
+                    {
                   "item1": "Sneakers",
                   "item2": "Sandals",
                   "item3": "Slippers",
@@ -60,11 +67,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Beauty",
-                "items":{
+                "items": [
+                    {
                   "item1": "Necklaces",
                   "item2": "Braclets",
                   "item3": "Jewlery sets",
@@ -74,11 +83,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Accessories",
-                "items":{
+                "items": [
+                    {
                   "item1": "Belts",
                   "item2": "Hats & Caps",
                   "item3": "Hair accessories",
@@ -88,16 +99,18 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               }
             ]
           },
           {
-            "type": "MAN",
+            "type": "WOMEN",
             "items":[
               {
                 "name": "New",
-                "items":{
+                "items": [
+                  {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -107,11 +120,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Apparel",
-                "items":{
+                "items": [
+                    {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -121,11 +136,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                   }
+                ]
               },
               {
                 "name": "Bag",
-                "items":{
+                "items": [
+                    {
                   "item1": "Clutches",
                   "item2": "Cross-Body Bags",
                   "item3": "Shoulder Bags",
@@ -135,11 +152,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Shoes",
-                "items":{
+                "items": [
+                    {
                   "item1": "Sneakers",
                   "item2": "Sandals",
                   "item3": "Slippers",
@@ -149,11 +168,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Beauty",
-                "items":{
+                "items": [
+                    {
                   "item1": "Necklaces",
                   "item2": "Braclets",
                   "item3": "Jewlery sets",
@@ -163,11 +184,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Accessories",
-                "items":{
+                "items": [
+                    {
                   "item1": "Belts",
                   "item2": "Hats & Caps",
                   "item3": "Hair accessories",
@@ -177,16 +200,18 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               }
             ]
           },
           {
-            "type": "KIDS",
+            "type": "WOMEN",
             "items":[
               {
                 "name": "New",
-                "items":{
+                "items": [
+                  {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -196,11 +221,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Apparel",
-                "items":{
+                "items": [
+                    {
                   "item1": "Outer",
                   "item2": "Dress",
                   "item3": "Blouse/Shirt",
@@ -210,11 +237,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                   }
+                ]
               },
               {
                 "name": "Bag",
-                "items":{
+                "items": [
+                    {
                   "item1": "Clutches",
                   "item2": "Cross-Body Bags",
                   "item3": "Shoulder Bags",
@@ -224,11 +253,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Shoes",
-                "items":{
+                "items": [
+                    {
                   "item1": "Sneakers",
                   "item2": "Sandals",
                   "item3": "Slippers",
@@ -238,11 +269,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Beauty",
-                "items":{
+                "items": [
+                    {
                   "item1": "Necklaces",
                   "item2": "Braclets",
                   "item3": "Jewlery sets",
@@ -252,11 +285,13 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               },
               {
                 "name": "Accessories",
-                "items":{
+                "items": [
+                    {
                   "item1": "Belts",
                   "item2": "Hats & Caps",
                   "item3": "Hair accessories",
@@ -266,7 +301,8 @@
                   "item7": "Pants",
                   "item8": "Denim",
                   "item9": "Kids"
-                }
+                  }
+                ]
               }
             ]
           }

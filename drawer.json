@@ -1,0 +1,131 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+        "drawer":[
+          {
+            "type": "WOMEN",
+            "items":[
+              {
+                "name": "New",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Apparel",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Bag",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Shoes",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Beauty",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Accessories",
+                "items":{
+                  
+                }
+              },
+            ]
+          },
+          {
+            "type": "MAN",
+            "items":[
+              {
+                "name": "New",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Apparel",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Bag",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Shoes",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Beauty",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Accessories",
+                "items":{
+                  
+                }
+              },
+            ]
+          },
+          {
+            "type": "KIDS",
+            "items":[
+              {
+                "name": "New",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Apparel",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Bag",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Shoes",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Beauty",
+                "items":{
+                  
+                }
+              },
+              {
+                "name": "Accessories",
+                "items":{
+                  
+                }
+              },
+            ]
+          },
+        ]
+  }
+}

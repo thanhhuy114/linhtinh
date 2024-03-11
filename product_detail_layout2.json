@@ -6,7 +6,9 @@
             "name": "mohan",
             "description": "Recycle Boucle Knit Cardigan Pink",
             "price": 120,
-            "url": "https://s3-alpha-sig.figma.com/img/2cef/4fd5/33cf801a5ce6b25e4e1a866030c219b3?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pETK4lejG-83-J02CWvqsNJsC~o14SJGHruo1Ix5aIrWXcr7Uw3njuBRzSdQcrAA6NcMJX4gawrniS1CxufVgzdhQf744HuuCdQr7l5eYZhVm4p0jfifjvrgsRIS~-sTJ~hAx~q4-QHa2m~CxEL3vt9nTNUfLV6ECD5D25oHmgOfAU1Z~8lsfhoms-OdjmRmG6cpA4-0IyLlAXk9U9qF4FkqkmCeqCzUiZp~2xV105Uawusx3QhDVmIKsywUUAMW7QOZhBsVbZV~hvAwpS098Iu6THSqqB2q7l01b8l~39ThU2-lVGDnoWgOFSgMUttWHhU0e8NIUi4Cg7xBcXrFLA__"
+            "image":{
+                    "url": "https://s3-alpha-sig.figma.com/img/2cef/4fd5/33cf801a5ce6b25e4e1a866030c219b3?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pETK4lejG-83-J02CWvqsNJsC~o14SJGHruo1Ix5aIrWXcr7Uw3njuBRzSdQcrAA6NcMJX4gawrniS1CxufVgzdhQf744HuuCdQr7l5eYZhVm4p0jfifjvrgsRIS~-sTJ~hAx~q4-QHa2m~CxEL3vt9nTNUfLV6ECD5D25oHmgOfAU1Z~8lsfhoms-OdjmRmG6cpA4-0IyLlAXk9U9qF4FkqkmCeqCzUiZp~2xV105Uawusx3QhDVmIKsywUUAMW7QOZhBsVbZV~hvAwpS098Iu6THSqqB2q7l01b8l~39ThU2-lVGDnoWgOFSgMUttWHhU0e8NIUi4Cg7xBcXrFLA__"
+                  }
         },
         "ring_size": [
             {

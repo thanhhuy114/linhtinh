@@ -1,8 +1,7 @@
 {
     "code": 0,
     "message": "success",
-    "data": {
-     "articles": [
+  "articles": [
         {
             "source": {
                 "id": null,
@@ -264,5 +263,4 @@
             "content": "The dunk of the year belongs to Anthony Edwards.\r\nThe Minnesota Timberwolves star threw down an absolutely ridiculous dunk in the second half of their 114-104 win over the Utah Jazz at the Delta Cent… [+2499 chars]"
         }
     ]
-    }
 }

@@ -2,13 +2,11 @@
     "code": 1,
     "message": "success",
     "data": {
-          "our_story":{
-            "open_message": "Open Fashion - Free Ecommerce UI Kit is a free download UI kit. You can open Open Fashion - Free Ecommerce UI Kit file by Figma. ",
-            "create_message": "Create stunning shop with bulletproof guidelines and thoughtful components. Its library contains more than 50+ components supporting Light & Dark Mode and 60+ ready to use mobile screens.",
-            "images": {
-              "url": "https://res.cloudinary.com/dc4nkguls/image/upload/v1711350545/OpenFashion/fashion_custom/tr0ybqeyan5hqaey9pvt.png"
-            },
-            "sign_up": "Receive early access to new arrivals, sales, exclusive content, events and much more!"
-          }
+        "open_message": "Open Fashion - Free Ecommerce UI Kit is a free download UI kit. You can open Open Fashion - Free Ecommerce UI Kit file by Figma. ",
+        "create_message": "Create stunning shop with bulletproof guidelines and thoughtful components. Its library contains more than 50+ components supporting Light & Dark Mode and 60+ ready to use mobile screens.",
+        "images": {
+          "url": "https://res.cloudinary.com/dc4nkguls/image/upload/v1711350545/OpenFashion/fashion_custom/tr0ybqeyan5hqaey9pvt.png"
+        },
+        "sign_up": "Receive early access to new arrivals, sales, exclusive content, events and much more!"
     }
 }

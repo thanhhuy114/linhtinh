@@ -1,4 +1,60 @@
-[
+{
+  "productListModel": [
+    {
+      "name": "iPhone 13 Pro",
+      "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/5/15_2_7_2_5.jpg",
+      "url": "https://example.com/iphone-13-pro",
+      "price": 999,
+      "promotion": 899,
+      "rating": 4.8,
+      "ratingCount": 1500,
+      "quantitySold": 10000,
+      "imageSourceUrl": "https://example.com/images/iphone-13-pro"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "imageUrl": "https://i5.walmartimages.com/asr/dcf28e36-4c71-49d1-931b-4649b866db89.22d7e2d5e09fe373b2541876b509ebfb.jpeg",
+      "url": "https://example.com/galaxy-s21",
+      "price": 799,
+      "promotion": 749,
+      "rating": 4.6,
+      "ratingCount": 2000,
+      "quantitySold": 15000,
+      "imageSourceUrl": "https://example.com/images/galaxy-s21"
+    },
+    {
+      "name": "Google Pixel 6",
+      "imageUrl": "https://clickbuy.com.vn/uploads/images/2022/05/ava-google-pixel-6-orange.png",
+      "url": "https://example.com/pixel-6",
+      "price": 699,
+      "promotion": null,
+      "rating": 4.5,
+      "ratingCount": 1200,
+      "quantitySold": 8000,
+      "imageSourceUrl": "https://example.com/images/pixel-6"
+    },
+    {
+      "name": "OnePlus 9",
+      "imageUrl": "https://m.media-amazon.com/images/I/61smwbhzBML._AC_SL1500_.jpg",
+      "url": "https://example.com/oneplus-9",
+      "price": 729,
+      "promotion": 679,
+      "rating": 4.4,
+      "ratingCount": 1100,
+      "quantitySold": 7000,
+      "imageSourceUrl": "https://example.com/images/oneplus-9"
+    },
+    {
+      "name": "Sony Xperia 5 III",
+      "imageUrl": "https://didongmango.com/images/products/2022/09/12/large/untitled-1_1662972122.jpg",
+      "url": "https://example.com/xperia-5-iii",
+      "price": 999,
+      "promotion": 949,
+      "rating": 4.2,
+      "ratingCount": 900,
+      "quantitySold": 6000,
+      "imageSourceUrl": "https://example.com/images/xperia-5-iii"
+    },
     {
       "name": "iPhone 13 Pro",
       "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/5/15_2_7_2_5.jpg",
@@ -54,60 +110,5 @@
       "quantitySold": 6000,
       "imageSourceUrl": "https://example.com/images/xperia-5-iii"
     }
-    ,{
-        "name": "iPhone 13 Pro",
-        "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/5/15_2_7_2_5.jpg",
-        "url": "https://example.com/iphone-13-pro",
-        "price": 999,
-        "promotion": 899,
-        "rating": 4.8,
-        "ratingCount": 1500,
-        "quantitySold": 10000,
-        "imageSourceUrl": "https://example.com/images/iphone-13-pro"
-      },
-      {
-        "name": "Samsung Galaxy S21",
-        "imageUrl": "https://i5.walmartimages.com/asr/dcf28e36-4c71-49d1-931b-4649b866db89.22d7e2d5e09fe373b2541876b509ebfb.jpeg",
-        "url": "https://example.com/galaxy-s21",
-        "price": 799,
-        "promotion": 749,
-        "rating": 4.6,
-        "ratingCount": 2000,
-        "quantitySold": 15000,
-        "imageSourceUrl": "https://example.com/images/galaxy-s21"
-      },
-      {
-        "name": "Google Pixel 6",
-        "imageUrl": "https://clickbuy.com.vn/uploads/images/2022/05/ava-google-pixel-6-orange.png",
-        "url": "https://example.com/pixel-6",
-        "price": 699,
-        "promotion": null,
-        "rating": 4.5,
-        "ratingCount": 1200,
-        "quantitySold": 8000,
-        "imageSourceUrl": "https://example.com/images/pixel-6"
-      },
-      {
-        "name": "OnePlus 9",
-        "imageUrl": "https://m.media-amazon.com/images/I/61smwbhzBML._AC_SL1500_.jpg",
-        "url": "https://example.com/oneplus-9",
-        "price": 729,
-        "promotion": 679,
-        "rating": 4.4,
-        "ratingCount": 1100,
-        "quantitySold": 7000,
-        "imageSourceUrl": "https://example.com/images/oneplus-9"
-      },
-      {
-        "name": "Sony Xperia 5 III",
-        "imageUrl": "https://didongmango.com/images/products/2022/09/12/large/untitled-1_1662972122.jpg",
-        "url": "https://example.com/xperia-5-iii",
-        "price": 999,
-        "promotion": 949,
-        "rating": 4.2,
-        "ratingCount": 900,
-        "quantitySold": 6000,
-        "imageSourceUrl": "https://example.com/images/xperia-5-iii"
-      }
   ]
-  
+}
